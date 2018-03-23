@@ -8,7 +8,7 @@ const path = require('path')
 //用于路径操作
 
 //安装方法为当前文件夹下 npm install 模块名
-//如果安装失败就全局安装。mac为 sudo npm install 模块名  windows为npm install 模块名 -g
+//应该是要全局安装的。可以先试一下，如果不能装就全局。mac为 sudo npm install 模块名  windows为npm install 模块名 -g
 //应该是这样。。。再有问题百度。。。安装的东西在node_modules里
 
 let url = 'http://www.meizitu.com/tag/';
